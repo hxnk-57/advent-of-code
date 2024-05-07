@@ -3,6 +3,7 @@
 ## Problems completed: (9/400)
      
 ## 2023
+Python (7)
 
 ## 2022 
 
